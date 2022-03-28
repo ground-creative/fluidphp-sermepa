@@ -1,0 +1,24 @@
+ {
+	"name": "fluidphp/sermepa-helper" ,	
+	"type": "library" ,
+	"description": "FluidPhp Framework Website Helper" ,
+	"keywords": [ "php framework" ] ,
+	"homepage": "http://phptoolcase.com" ,
+	"license": "GPL-2.0-or-later" ,
+	"version": "v1.0.0-stable",
+	"authors": 
+	[
+		{
+			"name": "Carlo Pietrobattista" ,
+			"email": "carlo@ground-creative.com",
+			"role": "Developer"
+		}
+	] ,
+	"autoload": 
+	{
+		"psr-4": 
+		{
+			"helpers\\Sermepa\\": ""
+		}
+	}
+}
